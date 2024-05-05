@@ -12,7 +12,7 @@ git clone https://github.com/Dishank25S/Backend-Engineer-Coding-Challenge-BirdVi
 
 ### 2. Navigate to the Project Directory
 
-cd birdvision
+cd Backend-Engineer-Coding-Challenge-BirdVision
 
 
 ### 3. Install Dependencies
