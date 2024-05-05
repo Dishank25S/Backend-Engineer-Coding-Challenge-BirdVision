@@ -8,7 +8,7 @@ This Flask-based API allows you to manage products in a database.
 
 ### 1. Clone the Repository
 
-git clone 
+git clone https://github.com/Dishank25S/Backend-Engineer-Coding-Challenge-BirdVision
 
 ### 2. Navigate to the Project Directory
 
