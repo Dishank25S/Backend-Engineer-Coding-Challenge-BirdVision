@@ -17,7 +17,8 @@ cd birdvision
 
 ### 3. Install Dependencies
 
-pip install -r support.txt
+pip freeze > requirements.txt
+pip install -r requirements.txt
 
 
 ### 4. Set up the Database
